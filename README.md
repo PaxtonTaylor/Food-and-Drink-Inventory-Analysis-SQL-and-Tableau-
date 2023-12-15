@@ -13,17 +13,16 @@ This is an example of my SQL skills and how I use them to create, investigate, a
 The data used for this is downloaded from the Analytics Mentor Program by Brandon Southern.
 It was available only as .csv files.
 
-Here are the original files:
+The original files listed below are available for download in the file secion of this repository:
 
-- [foods.csv]
-- [drinks.csv]
-- [food_inventories]
-
-
+- foods.csv
+- drinks.csv
+- food_inventories
 
 
 ## Tools
-SQL - PostgresSQL
-Data Visualization - Tableau (will add at a later time)
-Some Excel to setup tables and basic exploratory analysis
+
+- SQL - PostgresSQL
+- Data Visualization - Tableau (will add at a later time)
+- Some Excel to setup tables and basic exploratory analysis
 
