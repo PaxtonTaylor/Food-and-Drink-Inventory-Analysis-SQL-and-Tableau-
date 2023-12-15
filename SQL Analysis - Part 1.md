@@ -7,21 +7,21 @@
 In this portion I performed the following SQL statements:
 
 - [CREATE TABLE](#create-table)
-- [SELECT *](select-*)
--  COUNT(*)
-- Using aliases
-- WHERE to filter exact string matches
-  - Used = 'exact_string_match'
-  - LOWER
-  - UPPER
-  - ILIKE and % Wildcard
-- CASE
-- IS NULL
-- DISTINCT
-- UPDATE table_name SET column_name
-- ORDER BY
-- Filtering 2 columns using a subquery and ILIKE
-- Find percentage, CAST, and CROSS JOIN
+- [SELECT *](#select)
+- [COUNT(*)](#count())
+- [Using aliases](#using-aliases)
+- WHERE Clauses
+  - [='exact_string_match'](#where-with-exact_string_match)
+  - [LOWER](#where-with-lower)
+  - [UPPER](#where-with-upper)
+  - [ILIKE and % Wildcard](#where-with-ilike-and-%-wildcard)
+- [CASE](#case)
+- [IS NULL](#is-null)
+- [DISTINCT](#distinct)
+- [UPDATE table_name SET column_name](#update-and-set)
+- [ORDER BY](#order-by)
+- [Filtering 2 columns using a subquery and ILIKE](#subquery-and-ilike)
+- [Find percentage, CAST, and CROSS JOIN](#find-percent-cast-and-cross-join)
 
 
 ---
