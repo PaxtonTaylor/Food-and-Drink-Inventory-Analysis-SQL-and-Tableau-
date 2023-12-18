@@ -7,14 +7,14 @@
 In this portion I performed the following SQL statements:
 
 - [CREATE TABLE](#create-table)
-- [SELECT](#select)
-- [COUNT()](#count)
+- [SELECT *](#select)
+- [COUNT(*)](#count)
 - [Using aliases](#using-aliases)
 - WHERE Clauses
   - [='exact_string_match'](#where-with-exact_string_match)
   - [LOWER](#where-with-lower)
   - [UPPER](#where-with-upper)
-  - [ILIKE and % Wildcard](#where-with-ilike-and-%-wildcard)
+  - [ILIKE and % Wildcard](#where-with-ilike-and--wildcard)
 - [CASE](#case)
 - [IS NULL](#is-null)
 - [DISTINCT](#distinct)
