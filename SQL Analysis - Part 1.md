@@ -103,7 +103,7 @@ FROM
 **The following are more exploratory analysis within Postgre where the task of
 each query is within the comments at the beginning of each query.**
 
-### COUNT()
+### COUNT(*)
 
 ```
 /*
