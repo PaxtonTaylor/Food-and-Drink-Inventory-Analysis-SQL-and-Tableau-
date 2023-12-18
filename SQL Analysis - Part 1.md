@@ -8,7 +8,7 @@ In this portion I performed the following SQL statements:
 
 - [CREATE TABLE](#create-table)
 - [SELECT](#select)
-- [COUNT()](#count())
+- [COUNT()](#count)
 - [Using aliases](#using-aliases)
 - WHERE Clauses
   - [='exact_string_match'](#where-with-exact_string_match)
