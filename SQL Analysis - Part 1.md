@@ -2,13 +2,13 @@
 
 ## Part 1
 
-### Create tables and Exploratory Analysis
+### Create Tables and Exploratory Analysis
 
 In this portion I performed the following SQL statements:
 
 - [CREATE TABLE](#create-table)
-- [SELECT *](#select)
-- [COUNT(*)](#count())
+- [SELECT](#select)
+- [COUNT()](#count())
 - [Using aliases](#using-aliases)
 - WHERE Clauses
   - [='exact_string_match'](#where-with-exact_string_match)
@@ -73,7 +73,7 @@ Here is a screenshot of the initial ERD with the food and drinks tables:
 ---
 
 
-### SELECT *
+### SELECT
 
 Checked tables with SELECT statements for both
 
@@ -103,7 +103,7 @@ FROM
 **The following are more exploratory analysis within Postgre where the task of
 each query is within the comments at the beginning of each query.**
 
-### COUNT(*)
+### COUNT()
 
 ```
 /*
