@@ -7,7 +7,7 @@
 In this portion I performed the following SQL statements:
 
 - [CREATE TABLE](#create-table)
-- [SELECT *](#select)
+- [SELECT *](#select-)
 - [COUNT(*)](#count)
 - [Using aliases](#using-aliases)
 - WHERE Clauses
@@ -73,7 +73,7 @@ Here is a screenshot of the initial ERD with the food and drinks tables:
 ---
 
 
-### SELECT
+### SELECT *
 
 Checked tables with SELECT statements for both
 
