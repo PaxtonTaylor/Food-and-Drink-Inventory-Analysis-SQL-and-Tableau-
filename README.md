@@ -16,8 +16,8 @@ It was available only as .csv files.
 The original files listed below are available for download in the file secion of this repository:
 
 - [foods.csv](foods.csv)
-- drinks.csv
-- food_inventories
+- [drinks.csv](drinks.csv)
+- [food_inventories.csv](food_inventories.csv)
 
 
 ## Tools
