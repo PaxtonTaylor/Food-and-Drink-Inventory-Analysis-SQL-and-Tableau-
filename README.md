@@ -1,5 +1,5 @@
 # Food-and-Drink-Inventory-Analysis-SQL-and-Tableau-
-This is the first project from the Analytics Mentor program by Brandon Southern
+This is the first project from the Analytics Mentor program by Brandon Southern.
 
 ## Introduction
 
@@ -15,7 +15,7 @@ It was available only as .csv files.
 
 The original files listed below are available for download in the file secion of this repository:
 
-- foods.csv
+- [foods.csv](https://github.com/PaxtonTaylor/Food-and-Drink-Inventory-Analysis-SQL-and-Tableau-/blob/be6ea7af59446b8a6566f19f65eae881f84807f0/foods.csv)
 - drinks.csv
 - food_inventories
 
